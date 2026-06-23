@@ -3,3 +3,5 @@
 
 echo "👋 Hello from nanopscloud/independence!"
 echo "Script executed successfully on $(uname -s) ($(uname -m))"
+date
+echo ""
