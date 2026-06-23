@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/env bash
 # hello.sh — simple hello world script
 
 echo "👋 Hello from nanopscloud/independence!"
