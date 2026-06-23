@@ -2,6 +2,7 @@
 # hello.sh — simple hello world script
 
 echo "👋 Hello from nanopscloud/independence!"
-echo "Script executed successfully on $(uname -s) ($(uname -m)) in $SHELL"
+kuori=$SHELL
+echo "Script executed successfully on $(uname -s) ($(uname -m)) in $kuori"
 echo "$(date)"
 echo " "
