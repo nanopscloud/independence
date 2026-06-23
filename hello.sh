@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # hello.sh — simple hello world script
 
+echo " "
 echo "👋 Hello from nanopscloud/independence!"
 
 kuori=$BASH
